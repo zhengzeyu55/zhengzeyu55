@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @zhengzeyu55
+- 👀 I’m interested in Computer Science student passionate about Python. 
+- 🌱 Intrigued by data analysis and machine learning.
